@@ -6,7 +6,7 @@ I’m a full-stack developer from Uruguay, currently studying Software Engineeri
 
 ## 🧰 Techonolgies
  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -25,7 +25,7 @@ I’m a full-stack developer from Uruguay, currently studying Software Engineeri
 
 Here are some of my top projects. While not all are the most complex, they stand out for their unique ideas or because I’ve used them extensively.
 
-<div align="center">
+<div>
   <a href="https://github.com/yusborinchit/butterfly-nails" >
     <kbd>
       <img src="/butterfly-nails-mockup.jpeg" alt="" width="275px" height="200px" />
@@ -55,11 +55,7 @@ Here are some of my top projects. While not all are the most complex, they stand
 
 ## 📈 My Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusborinchit&theme=react&hide_border=true" alt="yusborinchit's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusborinchit&theme=react&show_icons=true&hide_border=true&layout=compact" alt="yusborinchit's Top Languages" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusborinchit&theme=react&hide_border=true" alt="yusborinchit's Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusborinchit&theme=react&show_icons=true&hide_border=true&layout=compact" alt="yusborinchit's Top Languages" />
 
 

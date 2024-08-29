@@ -23,7 +23,7 @@ I’m a full-stack developer from Uruguay, currently studying Software Engineeri
 
 Here are some of my top projects. While not all are the most complex, they stand out for their unique ideas or because I’ve used them extensively.
 
-[![](https://visitcount.itsvg.in/api?id=yusborinchit&icon=2&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=yusborinchit&icon=2&color=1)](https://visitcount.itsvg.in)
 
 ## 📈 My Stats
 

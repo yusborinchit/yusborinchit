@@ -28,22 +28,27 @@ Here are some of my top projects. While not all are the most complex, they stand
 <div align="center">
   <a href="https://github.com/yusborinchit/butterfly-nails" >
     <kbd>
-      <img src="/butterfly-nails-mockup.jpeg" alt="" width="350px" height="250px" />
+      <img src="/butterfly-nails-mockup.jpeg" alt="" width="275px" height="200px" />
     </kbd>
   </a>
   <a href="https://github.com/yusborinchit/notes-editor">
     <kbd>
-      <img src="/notes-editor-mockup.jpeg" alt="" width="350px" height="250px" />
+      <img src="/notes-editor-mockup.jpeg" alt="" width="275px" height="200px" />
+    </kbd>
+  </a>
+  <a href="https://github.com/yusborinchit/simple-trello">
+    <kbd>
+      <img src="/simple-trello-mockup.jpeg" alt="" width="275px" height="200px" />
     </kbd>
   </a>
   <a href="https://github.com/yusborinchit/sorting-visualizer" >
     <kbd>
-      <img src="/sort-visualizer-mockup.jpeg" alt="" width="350px" height="250px" />
+      <img src="/sort-visualizer-mockup.jpeg" alt="" width="275px" height="200px" />
     </kbd>
   </a>
   <a href="https://github.com/yusborinchit/online-bash">
     <kbd>
-      <img src="/online-bash-mockup.jpeg" alt="" width="350px" height="250px" />
+      <img src="/online-bash-mockup.jpeg" alt="" width="275px" height="200px" />
     </kbd>
   </a>
 </div>

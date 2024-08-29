@@ -55,7 +55,9 @@ Here are some of my top projects. While not all are the most complex, they stand
 
 ## 📈 My Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusborinchit&theme=react&hide_border=true" alt="yusborinchit's Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusborinchit&theme=react&show_icons=true&hide_border=true&layout=compact" alt="yusborinchit's Top Languages" />
+<p align="top">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusborinchit&theme=react&hide_border=true" alt="yusborinchit's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusborinchit&theme=react&show_icons=true&hide_border=true&layout=compact" alt="yusborinchit's Top Languages" />
+</p>
 
 

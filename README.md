@@ -1,3 +1,5 @@
+[![Profile Views](https://visitcount.itsvg.in/api?id=yusborinchit&icon=2&color=1)](https://visitcount.itsvg.in)
+
 # 🤓☝ Hello! I’m Santiago García 
 
 I’m a full-stack developer from Uruguay, currently studying Software Engineering. Passionate about building modern web applications, I specialize in using React, Next.js, TypeScript, TailwindCSS, and PostgreSQL.
@@ -23,7 +25,28 @@ I’m a full-stack developer from Uruguay, currently studying Software Engineeri
 
 Here are some of my top projects. While not all are the most complex, they stand out for their unique ideas or because I’ve used them extensively.
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=yusborinchit&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://github.com/yusborinchit/butterfly-nails" >
+    <kbd>
+      <img src="/butterfly-nails-mockup.jpeg" alt="" width="350px" height="250px" />
+    </kbd>
+  </a>
+  <a href="https://github.com/yusborinchit/notes-editor">
+    <kbd>
+      <img src="/notes-editor-mockup.jpeg" alt="" width="350px" height="250px" />
+    </kbd>
+  </a>
+  <a href="https://github.com/yusborinchit/sorting-visualizer" >
+    <kbd>
+      <img src="/sort-visualizer-mockup.jpeg" alt="" width="350px" height="250px" />
+    </kbd>
+  </a>
+  <a href="https://github.com/yusborinchit/online-bash">
+    <kbd>
+      <img src="/online-bash-mockup.jpeg" alt="" width="350px" height="250px" />
+    </kbd>
+  </a>
+</div>
 
 ## 📈 My Stats
 
